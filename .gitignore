@@ -10,7 +10,7 @@
 
 # production
 /build
-/public/pizzas
+/public/pizzas/
 
 # misc
 .DS_Store
